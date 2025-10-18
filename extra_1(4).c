@@ -24,10 +24,6 @@ Substituindo, temos que o inverso de 3 em 11 é 4.
 Fazendo a multiplicação modular: 7 * 4 mod 11 = 6
  Sendo 4 o inverso de 3.
 Valor final da congruência: 4
-
-correção extra_1
-
-
 */
 
 #include <stdio.h>
